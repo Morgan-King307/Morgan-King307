@@ -14,7 +14,7 @@ Computational physics, reactor modeling, and PDEs/numerical methods in Python, O
 - **Symposium Chair**, American Nuclear Society BYU Chapter, Mar 2025 – present
 
 ## Projects
-- [Stellarator-Project](https://github.com/Morgan-King307/Stellarator-Project): magnetic field-line tracer validated against analytic 3D MHD equilibria (the repo is private for now, so this link only works for you)
+- [Stellarator-Project](https://github.com/Morgan-King307/Stellarator-Project): magnetic field-line tracer validated against analytic 3D MHD equilibria
 - *Stellarators – An Analysis of Recent Advancements*: literature review of stellarator technology (Aug 2025)
 
 ## Skills
